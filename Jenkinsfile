@@ -34,5 +34,11 @@ pipeline {
                 sh "mvn package -f CalculatorDevOps"
             }
         }
+        
+        stage('Build Docker Image') {
+            steps {
+                sh "docker build -t project:1 /var/lib/jenkins/workspace/Mini-Project/CalculatorDevOps"
+            }
+        }
     }
 }
