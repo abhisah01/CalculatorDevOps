@@ -47,7 +47,7 @@ pipeline {
                     sh 'docker login -u abhisah01 -p c2df4857-f553-4342-aa69-5b0488e47831'
                 // }
                 
-                sh "docker image tag spe-project:1 abhisah01/project:1"
+                sh "docker image tag project:1 abhisah01/project:1"
                 sh "docker image push docker.io/abhisah01/project:1"
             }
         }
