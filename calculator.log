@@ -1,0 +1,28 @@
+17/Mar/2021:19:32:00 442 [Calculator.java] [INFO] Calculator [Power function] - 5.0 power 2.0
+17/Mar/2021:19:32:00 447 [Calculator.java] [INFO] Calculator [Result] - 25.0
+17/Mar/2021:19:32:00 447 [Calculator.java] [INFO] Calculator [Power function] - -1.0 power -5.0
+17/Mar/2021:19:32:00 448 [Calculator.java] [INFO] Calculator [Result] - -1.0
+17/Mar/2021:19:32:00 448 [Calculator.java] [INFO] Calculator [Power function] - 2.0 power -5.0
+17/Mar/2021:19:32:00 449 [Calculator.java] [INFO] Calculator [Result] - 0.03125
+17/Mar/2021:19:32:00 450 [Calculator.java] [INFO] Calculator [Logarithm function] - 5.0
+17/Mar/2021:19:32:00 451 [Calculator.java] [INFO] Calculator [Result] - 1.6094379124341003
+17/Mar/2021:19:32:00 451 [Calculator.java] [INFO] Calculator [Logarithm function] - -1.0
+17/Mar/2021:19:32:00 452 [Calculator.java] [INFO] Calculator [Result] - NaN
+17/Mar/2021:19:32:00 453 [Calculator.java] [INFO] Calculator [Logarithm function] - 13.0
+17/Mar/2021:19:32:00 453 [Calculator.java] [INFO] Calculator [Result] - 2.5649493574615367
+17/Mar/2021:19:32:00 454 [Calculator.java] [INFO] Calculator [Factorial function] - 0.0
+17/Mar/2021:19:32:00 455 [Calculator.java] [INFO] Calculator [Result] - 1.0
+17/Mar/2021:19:32:00 455 [Calculator.java] [INFO] Calculator [Factorial function] - 5.0
+17/Mar/2021:19:32:00 455 [Calculator.java] [INFO] Calculator [Result] - 120.0
+17/Mar/2021:19:32:00 456 [Calculator.java] [INFO] Calculator [Factorial function] - -1.0
+17/Mar/2021:19:32:00 456 [Calculator.java] [INFO] Calculator [Result] - NaN
+17/Mar/2021:19:32:00 457 [Calculator.java] [INFO] Calculator [Square root function] - 25.0
+17/Mar/2021:19:32:00 457 [Calculator.java] [INFO] Calculator [Result] - 5.0
+17/Mar/2021:19:32:00 458 [Calculator.java] [INFO] Calculator [Square root function] - -1.0
+17/Mar/2021:19:32:00 458 [Calculator.java] [INFO] Calculator [Result] - NaN
+17/Mar/2021:19:32:00 459 [Calculator.java] [INFO] Calculator [Square root function] - 23.0
+17/Mar/2021:19:32:00 460 [Calculator.java] [INFO] Calculator [Result] - 4.795831523312719
+17/Mar/2021:19:35:00 545 [Calculator.java] [INFO] Calculator [Square root function] - 23.0
+17/Mar/2021:19:35:00 554 [Calculator.java] [INFO] Calculator [Result] - 4.795831523312719
+17/Mar/2021:19:35:31 250 [Calculator.java] [INFO] Calculator [Factorial function] - 10.0
+17/Mar/2021:19:35:31 252 [Calculator.java] [INFO] Calculator [Result] - 3628800.0
