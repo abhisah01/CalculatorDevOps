@@ -49,7 +49,7 @@ pipeline {
             }
         }
         
-        stage('Deploy on Node') {
+        stage('Deploy on localhost') {
             steps {
                 sh "ansible localhost -a 'docker image pull abhisah01/project:1'"
             }
